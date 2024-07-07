@@ -7,7 +7,10 @@ public class LoginPage {
 		System.out.println("Hello - LP ");
 		String un = "admin";
 		String pwd = "admin";
-		System.out.println("Logged in ...");	
+		System.out.println("Logged in ...");
+		System.out.println("Logged out ...");
+		
+		
 	}
 
 }
